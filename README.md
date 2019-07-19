@@ -67,13 +67,13 @@ $ yarn start # Frontend runs on port 8080
 
 ### What is [Flask](https://palletsprojects.com/p/flask/)
 
-Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks. Read more about **Flask** [here](https://flask.palletsprojects.com/en/1.1.x/)
+Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks. Read more about **Flask** [here](https://flask.palletsprojects.com/en/1.1.x/).
 
 <br />
 
 ### What is [Vue](https://vuejs.org/)
 
-[Vue](https://vuejs.org/) (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries. Read more about **Vue** [here](https://vuejs.org/v2/guide/)
+[Vue](https://vuejs.org/) (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries. Read more about **Vue** [here](https://vuejs.org/v2/guide/).
 
 <br />
 
