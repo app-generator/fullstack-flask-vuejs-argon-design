@@ -27,7 +27,7 @@ To use and start this starter, a few simple steps must be followed:
 
 ## [Flask boilerplate](https://github.com/app-generator/flask-boilerplate) backend 
  
-The backend server is a simple [Flask](https://palletsprojects.com/p/flask/) with **JWT authentication**, **SQLite** database, **Sequelize ORM**, unit tests and basic tooling.
+The backend server is a simple [Flask](https://palletsprojects.com/p/flask/) with **JWT authentication**, **SQLite** database, **SQLAlchemy ORM**, unit tests and basic tooling.
  
 ```
 $ #############################
