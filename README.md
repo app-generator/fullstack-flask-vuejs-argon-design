@@ -4,8 +4,7 @@ Full-Stack [Vue](https://vuejs.org/) [Argon Design](https://www.creative-tim.com
 
 <br />
 
-![Flask Vuejs Argon Design - Gif animated presentation.](https://github.com/app-generator/static/blob/master/products/argon-design-system-intro.gif?raw=true)
-
+a
 <br />
 
 ## Product Features
